@@ -1,0 +1,8 @@
+# Ignore backup .git files
+*.git~                # Backup .git files ending with ~
+
+# Ignore workspace backup files
+*.code-workspace~     # Backup workspace files ending with ~
+
+# Ignore README backup files
+*README*~             # Backup README files ending with ~
