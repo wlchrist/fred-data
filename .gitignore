@@ -1,8 +1,5 @@
-# Ignore backup .git files
-*.git~                # Backup .git files ending with ~
-
 # Ignore workspace files
-*.code-workspace     # Backup workspace files ending with ~
+*.code-workspace
 
-# Ignore README backup files
-*README*~             # Backup README files ending with ~
+# Ignore macOS metadata and backup files
+._*
